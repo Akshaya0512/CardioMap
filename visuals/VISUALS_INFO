@@ -1,0 +1,12 @@
+ Visuals Folder
+
+This folder contains visual outputs generated from data analysis such as:
+
+- Charts
+- Graphs
+- Plots
+- Data distributions
+
+These visuals help interpret patterns in EMS and Hospital datasets.
+
+Note: Visuals are part of exploratory analysis for educational purposes.
