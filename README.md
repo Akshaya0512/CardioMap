@@ -6,7 +6,9 @@ CardioMap is a beginner-level machine learning project that explores cardiovascu
 
 The project demonstrates a full ML pipeline including data preprocessing, model training, evaluation, and result interpretation.
 
- Objective
+
+
+Objective
 
 The goal of this project is to:
 
@@ -27,3 +29,50 @@ Machine learning is increasingly used in medical research to:
 This project is an educational simulation of such approaches.
 
  Pipeline
+Raw Data
+↓
+Data Loading
+↓
+Preprocessing
+↓
+Train/Test Split
+↓
+Model Training
+↓
+Evaluation
+↓
+Results Interpretation
+
+ Models Used
+
+- Logistic Regression
+- Random Forest Classifier
+
+These are baseline models commonly used for structured medical datasets.
+
+Evaluation
+
+Model performance is evaluated using:
+
+- Accuracy
+- Precision / Recall
+- F1-score
+
+ Project Structure
+src/
+data/
+results/
+main.py
+
+ Results
+
+All model outputs are stored in the `results/` folder.
+
+ Disclaimer
+
+This project is for educational purposes only and is not a medical diagnostic tool.
+
+ Author
+
+Akshaya0512  
+Independent student interested in computational biology and physician-scientist pathway.
