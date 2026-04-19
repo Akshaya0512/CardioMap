@@ -1,14 +1,12 @@
-# 🫀 CardioMap: Cardiovascular Risk Analysis using Machine Learning
+CardioMap: Cardiovascular Risk Analysis using Machine Learning
 
-## 📌 Overview
+ Overview
 
 CardioMap is a beginner-level machine learning project that explores cardiovascular risk patterns using structured health-related data.
 
 The project demonstrates a full ML pipeline including data preprocessing, model training, evaluation, and result interpretation.
 
----
-
-## 🎯 Objective
+ Objective
 
 The goal of this project is to:
 
@@ -17,9 +15,7 @@ The goal of this project is to:
 - Evaluate model performance
 - Understand feature importance in health-related data
 
----
-
-## 🧠 Motivation
+Motivation
 
 Cardiovascular diseases are among the leading causes of mortality worldwide.
 
@@ -30,6 +26,4 @@ Machine learning is increasingly used in medical research to:
 
 This project is an educational simulation of such approaches.
 
----
-
-## ⚙️ Pipeline
+ Pipeline
