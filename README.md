@@ -1,43 +1,35 @@
- Project Overview
-The Cardiac-Access Registry is a pilot project to explore disparities in emergency cardiac care across Texas. Using publicly available EMS data and hospital location information, this project maps EMS response times and transport distances to hospitals capable of performing PCI procedures.  
+# 🫀 CardioMap: Cardiovascular Risk Analysis using Machine Learning
 
-The goal is to identify areas where patients might experience delayed access to care and to explore how data-driven insights could guide research, hospital planning, and interventions.
+## 📌 Overview
 
----
+CardioMap is a beginner-level machine learning project that explores cardiovascular risk patterns using structured health-related data.
 
- Motivation
-I started this project because I’m interested in medicine and medical research, and I wanted to see if data could help understand real-world problems. Quick access to cardiac care is critical for survival, and I hope this registry can help highlight regions that might benefit from additional attention.
+The project demonstrates a full ML pipeline including data preprocessing, model training, evaluation, and result interpretation.
 
 ---
 
- Data Sources
-- Public EMS data (response times, call locations)  
-- Publicly available hospital locations in Texas (PCI-capable centers)  
+## 🎯 Objective
 
-*Note:* All data is de-identified and publicly available. No private health information is used.
+The goal of this project is to:
 
----
-
- Project Structure
-- `data/` – Contains sample EMS and hospital datasets  
-- `notebooks/` – Jupyter notebooks for data exploration and map creation  
-- `visuals/` – Heatmaps and charts visualizing response times and hospital access  
-- `docs/` – Project summary and PDF files for sharing  
-- `README.md` – This file  
+- Explore cardiovascular-related datasets
+- Build simple machine learning models for classification
+- Evaluate model performance
+- Understand feature importance in health-related data
 
 ---
 
- Skills Demonstrated
-- Data collection and organization  
-- Basic analysis and visualization (maps, charts)  
-- Independent literature review and project planning  
-- Translational research thinking  
+## 🧠 Motivation
+
+Cardiovascular diseases are among the leading causes of mortality worldwide.
+
+Machine learning is increasingly used in medical research to:
+- analyze patient risk patterns
+- support early detection
+- assist clinical decision-making research
+
+This project is an educational simulation of such approaches.
 
 ---
 
- Next Steps
-- Gather feedback from experts in cardiology and EMS research  
-- Improve data visualization and analysis methods  
-- Explore connections to bioengineering, hospital planning, or clinical research  
-- Potentially scale the project beyond Texas as a pilot study  
-
+## ⚙️ Pipeline
