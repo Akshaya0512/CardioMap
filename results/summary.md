@@ -1,11 +1,15 @@
-Results Summary
+CardioMap Results Summary
 
-This project explored cardiovascular risk prediction using machine learning models.
+Overview
+This project applied basic machine learning models to structured healthcare datasets.
 
- Key Findings
+Key Observations
 - Random Forest performed better than Logistic Regression
-- Data features show predictive patterns for classification
-- Model performance is consistent with baseline ML expectations
+- Data shows structured patterns useful for classification tasks
+- Results are consistent with baseline ML expectations
+
+ Interpretation
+The project demonstrates how machine learning can be applied to structured healthcare data for exploratory analysis purposes.
 
 Conclusion
-Machine learning models can identify patterns in structured cardiovascular datasets, demonstrating potential for further research applications.
+CardioMap is an educational pipeline for learning ML applications in healthcare datasets.
