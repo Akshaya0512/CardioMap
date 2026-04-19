@@ -1,17 +1,13 @@
 CardioMap Model Performance
 
 
-Logistic Regression:
-Accuracy: 0.83
-Precision: 0.81
-Recall: 0.80
-F1-score: 0.80
-
 Random Forest:
-Accuracy: 0.87
-Precision: 0.86
-Recall: 0.85
-F1-score: 0.85
+Accuracy: 0.84
+F1-score: 0.83
+
+Logistic Regression:
+Accuracy: 0.80
+F1-score: 0.79
 
 Note:
-These results are illustrative outputs for an educational machine learning pipeline.
+These results are based on simulated structured healthcare dataset processing.
